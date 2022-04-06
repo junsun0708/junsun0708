@@ -6,7 +6,7 @@
 
 ![junsun0708's github stats](https://github-readme-stats.vercel.app/api?username=junsun0708&show_icons=true)
 [![junsun0708's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsun0708&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/junsun0708)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junsun0708)](https://solved.ac/junsun0708)
 
 ### 안녕하세요 정용후 입니다.
 #### 자바 웹 프로그래머
