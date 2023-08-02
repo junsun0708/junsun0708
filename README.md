@@ -24,4 +24,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsun0708)](https://solved.ac/junsun0708)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junsun0708)  
+<img src="https://ghchart.rshah.org/junsun0708" />
 
