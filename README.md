@@ -43,8 +43,13 @@ Interests: Web Development, AI/LLM, Automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=junsun0708&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsun0708&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junsun0708&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=junsun0708&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junsun0708&theme=tokyonight&utcOffset=9" height="165" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junsun0708&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junsun0708&theme=tokyonight" height="165" />
 
 </div>
 
@@ -55,16 +60,6 @@ Interests: Web Development, AI/LLM, Automation
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=junsun0708&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
-## 🏆 Trophy
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=junsun0708&theme=tokyonight&no-frame=true&column=7)
 
 </div>
 
