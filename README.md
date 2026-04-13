@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3497AC,100:0ECEC7&height=220&section=header&text=JunSun&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26%20AI%20Developer&descSize=20&descAlignY=55" width="100%" />
 
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsun0708&count_bg=%230ECEC7&title_bg=%233497AC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <br>
 
 ## 🙋‍♂️ About Me
