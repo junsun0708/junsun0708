@@ -22,7 +22,7 @@ Experience: 14+ years in Backend Development, recently transitioned to AI/LLM En
 | **LLM APIs** | Claude API, OpenAI GPT API, Google Gemini |
 | **Local LLM** | Ollama |
 | **AI Frameworks** | LangChain, ChromaDB (RAG) |
-| **AI Dev Tools** | Claude Code, Agent Teams |
+| **AI Dev Tools** | Cowork , Antigravity |
 
 </div>
 
