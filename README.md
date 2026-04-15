@@ -80,14 +80,4 @@ Experience: 14+ years in Backend Development, recently transitioned to AI/LLM En
 
 <br>
 
-## 🧩 Solved.ac
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsun0708)](https://solved.ac/junsun0708)
-
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3497AC,100:0ECEC7&height=120&section=footer" width="100%" />
